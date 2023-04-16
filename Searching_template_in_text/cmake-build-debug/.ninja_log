@@ -1,0 +1,22 @@
+# ninja log v5
+2	233	7030148636616148	build.ninja	fa86c8a791d3c8bc
+76	730	7030137021676865	CMakeFiles/CHT_2.dir/algorithms/CharByCharAlgorithm.cpp.obj	ccc76d01fd2fce31
+97	725	7030137021654306	CMakeFiles/CHT_2.dir/algorithms/KMP.cpp.obj	e2d22a4229a5d6a6
+121	942	7030137023814125	CMakeFiles/CHT_2.dir/functions/Generation.cpp.obj	25fae9248cb15b82
+10	1445	7030137028869037	CMakeFiles/CHT_2.dir/main.cpp.obj	7f77f0cca5d07cdd
+1445	1915	7030137033547843	CHT_2.exe	9fb29a4c06411ddc
+202	832	7030137022714088	CMakeFiles/CHT_2.dir/algorithms/KMPRefinedFaces.cpp.obj	5d9ca0b13367fe2d
+245	963	7030137024035594	CMakeFiles/CHT_2.dir/functions/BustingPatterns.cpp.obj	b004b6091cb671e5
+32	530	7029360055093635	CMakeFiles/CHT_2.dir/architecture/Pattern.cpp.obj	e8a7151b547a56aa
+297	818	7030137022588852	CMakeFiles/CHT_2.dir/algorithms/RabinKarp.cpp.obj	145e96bc1339c59b
+18	593	7030149161565333	CMakeFiles/CHT_2.dir/algorithms/CharByCharAlgorithm.cpp.obj	1afd9bd8f34d8952
+81	718	7030149163264829	CMakeFiles/CHT_2.dir/algorithms/KMP.cpp.obj	9b41dec28a345c93
+110	747	7030149163503893	CMakeFiles/CHT_2.dir/algorithms/KMPRefinedFaces.cpp.obj	bac643f33c185ed2
+204	759	7030149163604235	CMakeFiles/CHT_2.dir/algorithms/RabinKarp.cpp.obj	aed4eef772576a42
+40	984	7030149165087176	CMakeFiles/CHT_2.dir/functions/Generation.cpp.obj	a635e75f8268e157
+144	1058	7030149166640644	CMakeFiles/CHT_2.dir/architecture/Pattern.cpp.obj	5e26a5eecf66c139
+178	1102	7030149167123923	CMakeFiles/CHT_2.dir/functions/BustingPatterns.cpp.obj	ca49cefa53678415
+4	1562	7030149171704227	CMakeFiles/CHT_2.dir/main.cpp.obj	327b73eb04387d12
+1562	1898	7030149175039407	CHT_2.exe	9fb29a4c06411ddc
+9	2078	7030152786353182	CMakeFiles/CHT_2.dir/main.cpp.obj	327b73eb04387d12
+2079	2448	7030152790062071	CHT_2.exe	9fb29a4c06411ddc

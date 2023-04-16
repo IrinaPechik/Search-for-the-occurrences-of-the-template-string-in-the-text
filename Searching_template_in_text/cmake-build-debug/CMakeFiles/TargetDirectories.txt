@@ -1,0 +1,3 @@
+C:/Users/lisen/Documents/Учеба/ВШЭ/2 курс/Построение и анализ алгоритмов/КДЗ/КДЗ№2/Clion_project/cmake-build-debug/CMakeFiles/CHT_2.dir
+C:/Users/lisen/Documents/Учеба/ВШЭ/2 курс/Построение и анализ алгоритмов/КДЗ/КДЗ№2/Clion_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lisen/Documents/Учеба/ВШЭ/2 курс/Построение и анализ алгоритмов/КДЗ/КДЗ№2/Clion_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
